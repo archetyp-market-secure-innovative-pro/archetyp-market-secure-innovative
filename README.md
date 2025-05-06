@@ -4,11 +4,11 @@ The darknet offers a complex ecosystem of platforms designed for anonymity and a
 
 ## Archetyp Market: Security at Its Core
 
-http://zfo6cvy57rvvtcajhlkowg5fjvm6w5kjskjps22dzv5xzstphodglfqd.onion
+http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion
 
-[<img src="/addons/rotate.webp" width="200">](http://zfo6cvy57rvvtcajhlkowg5fjvm6w5kjskjps22dzv5xzstphodglfqd.onion)
+[<img src="/assets/pointer.webp" width="200">](http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion)
 
-<a href="http://zfo6cvy57rvvtcajhlkowg5fjvm6w5kjskjps22dzv5xzstphodglfqd.onion"><img src="/addons/widget.webp" alt="Archetyp Preview" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/assets/back.webp" alt="Archetyp Preview" style="max-width: 100%;"></a>
 
 This content is strictly educational and aims to provide insights into the workings of the dark web. We do not earn commissions or benefits from affiliate links, nor are we affiliated with any legal entities. Additionally, we do not support or promote illegal activities in any form.
 
@@ -47,8 +47,8 @@ Always remember that participating in the darknet comes with legal and technical
 
 If you're prepared to explore Archetyp: Market, focusing on its **secure and innovative** approach, here are the links to get started:
 
-<a href="http://zfo6cvy57rvvtcajhlkowg5fjvm6w5kjskjps22dzv5xzstphodglfqd.onion"><img src="/addons/copy.webp" alt="Archetyp Login" style="max-width: 100%;"></a>
-<a href="http://zfo6cvy57rvvtcajhlkowg5fjvm6w5kjskjps22dzv5xzstphodglfqd.onion"><img src="/addons/margin.webp" alt="Archetyp Register" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/assets/start.webp" alt="Archetyp Login" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/assets/watermark.webp" alt="Archetyp Register" style="max-width: 100%;"></a>
 
 ---
 
